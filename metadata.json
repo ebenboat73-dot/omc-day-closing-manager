@@ -1,0 +1,6 @@
+{
+  "name": "OMC Day Sales & Stock Reporting",
+  "description": "Mobile-first daily fuel pump meter reading, sales aggregation, stock reconciliation, and reporting app for station managers.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
